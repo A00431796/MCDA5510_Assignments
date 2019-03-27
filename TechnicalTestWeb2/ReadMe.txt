@@ -4,6 +4,7 @@ set of shipments associated with their customer account.
 Item 1: Create a branch off the remo call it A########_TechTest
 - make sure to push your code to this branch
 - Create a Pull request to merge this into master 
+-----------------------------------------------------------
 
 There is script file located in the "SQL Script", directory.
 Create a database and using SQL Management Console exedcute the script to populate the data.
